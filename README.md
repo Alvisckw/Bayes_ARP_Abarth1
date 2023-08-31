@@ -1,5 +1,5 @@
 # Applied Research Proejct - Abarth
-This is the GitHub repository of my contribution to the Applied Research Project (ARP) - Abarth 1.
+This is the GitHub repository for my contribution to the Applied Research Project (ARP) - Abarth 1.
 
 The ARP is part of the requirements for the award of the MSc Business Analytics at Bayes Business School in 2022/23 academic year.
 
