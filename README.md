@@ -3,7 +3,7 @@ This is the GitHub repository for my contribution to the Applied Research Projec
 
 The ARP is part of the requirements for the award of the MSc Business Analytics at Bayes Business School in 2022/23 academic year.
 
-** This repository is forked from the collaboration repo (/XShawn1/Bayes_ARP_Abarth_1), and is reorganized for display purpose. 
+** This repository is forked from my branch of the collaboration repo (/XShawn1/Bayes_ARP_Abarth_1), and is reorganized for display purpose. 
 
 ## Project Aim
 - To understand the online discussion on Abarth before and after launching their first electric vehicle (Abarth 500e)
