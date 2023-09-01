@@ -1,4 +1,6 @@
-# Applied Research Proejct - Abarth
+# Applied Research Proejct - Abarth Electrification
+<img src="images/cover2.png" alt="drawing" height="260"/> <img src="images/cover.jpg" alt="drawing" height="260"/>
+
 This is the GitHub repository for my contribution to the Applied Research Project (ARP) - Abarth 1.
 
 The ARP is part of the requirements for the award of the MSc Business Analytics at Bayes Business School in 2022/23 academic year.
