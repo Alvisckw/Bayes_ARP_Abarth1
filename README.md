@@ -5,14 +5,14 @@ This is the GitHub repository for my contribution to the Applied Research Projec
 
 The ARP is part of the requirements for the award of the MSc Business Analytics at Bayes Business School in 2022/23 academic year.
 
-** This repository is forked from my branch of the collaboration repo (/XShawn1/Bayes_ARP_Abarth_1), and is reorganized for display purpose. 
+** This repository is forked from my branch ([/Alvis](https://github.com/XShawn1/Bayes_ARP_Abarth_1/tree/Alvis)) of the collaboration repo ([/XShawn1/Bayes_ARP_Abarth_1](https://github.com/XShawn1/Bayes_ARP_Abarth_1/tree/main)), and is reorganized for display purpose. 
 
 ## Project Aim
 - To understand the online discussion on Abarth before and after launching their first electric vehicle (Abarth 500e)
-- To propose business insights and identify risks & opportunities based on the analysis result
+- To propose business insights and identify risks & opportunities for strategic marketing decision-making
 
 ## Code Explanation
-- Scraped Reddit discussions under subreddit /abarth and /fiat with keyword search 'abarth'
+- Scraped Reddit discussions under subreddit /abarth and /fiat with keyword search 'abarth' (which can be found in [/data](./data))
 - Performed topic modelling to extract topic clusters and keywords
 - Performed sentiment analysis on each topic
 - Performed comparison across time, particularly around Announcement, Public Showcase, and Market Release
